@@ -1,0 +1,6 @@
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\bin\Debug\Block de tareas del dia.exe
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\bin\Debug\Block de tareas del dia.pdb
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\obj\Debug\Block de tareas del dia.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\obj\Debug\Block de tareas del dia.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\obj\Debug\Block de tareas del dia.exe
+C:\Users\agust\source\repos\Block de tareas del dia\Block de tareas del dia\obj\Debug\Block de tareas del dia.pdb
