@@ -4,3 +4,9 @@ C:\Users\agust\source\repos\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.
 C:\Users\agust\source\repos\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.csproj.CoreCompileInputs.cache
 C:\Users\agust\source\repos\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.exe
 C:\Users\agust\source\repos\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.pdb
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\bin\Debug\Listas nuevas.exe
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\bin\Debug\Listas nuevas.pdb
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.csprojAssemblyReference.cache
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.exe
+C:\Users\agust\OneDrive\Documentos\Optimizacion\Listas nuevas\Listas nuevas\obj\Debug\Listas nuevas.pdb

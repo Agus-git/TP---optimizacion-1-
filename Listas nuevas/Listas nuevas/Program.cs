@@ -20,7 +20,23 @@ namespace Listas_nuevas
 
             MiLista.MirarLista();
             Console.WriteLine("Escribi el indice que buscas");
-            Console.WriteLine(MiLista.devolver(int.Parse(Console.ReadLine().ToString())));
+            Console.WriteLine(MiLista.Mirar(int.Parse(Console.ReadLine().ToString())));
+            Console.ReadLine();
+            Console.WriteLine("Ahora probamos las pilas");
+
+            Pilamia Mipila = new Pilamia();
+
+            Mipila.add(1);
+            Mipila.add(9);
+            Mipila.add(5);
+            Mipila.add("Rock");
+            Mipila.add(17);
+            Mipila.add(11);
+            Mipila.MirarLista();
+            Console.WriteLine("Agarramos el primer valor que es este: " + Mipila.Agarrar());
+            Console.ReadLine();
+            Mipila.MirarLista();
+            Console.WriteLine("Agarramos el primer valor que es este: " + Mipila.Agarrar());
             Console.ReadLine();
         }
     }

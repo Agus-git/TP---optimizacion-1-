@@ -7,9 +7,9 @@ namespace Listas_nuevas
 {
     class Listamia
     {
-        Nodo Pivote;
-        Nodo Trabajo;
-        Nodo Apoyo;
+        protected Nodo Pivote;
+        protected Nodo Trabajo;
+        protected Nodo Apoyo;
 
         public Listamia()
         {
@@ -42,13 +42,14 @@ namespace Listas_nuevas
             Trabajo.Next = NuevaCadena;
         }
 
-        public object devolver(int index)
+        public object Mirar(int index)
         {
             Trabajo = Pivote;
             int contador = 0;
-            while (contador != index && Trabajo != null)
+            while (contador != index && Trabajo != null) 
             {
                 Trabajo = Trabajo.Next;
+
                 contador++;
             }
             if (index != contador)
@@ -60,5 +61,6 @@ namespace Listas_nuevas
                 return Trabajo.Dato;
             }
         }
+
     }
 }
