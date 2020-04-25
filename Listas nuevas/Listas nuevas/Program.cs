@@ -38,6 +38,22 @@ namespace Listas_nuevas
             Mipila.MirarLista();
             Console.WriteLine("Agarramos el primer valor que es este: " + Mipila.Agarrar());
             Console.ReadLine();
+
+            Filamia Mifila = new Filamia();
+
+            Console.WriteLine("Ahora probamos el queue nuevo, mejorado y diria que hasta perfecto");
+            Mifila.add(1);
+            Mifila.add(9);
+            Mifila.add(5);
+            Mifila.add("Rock");
+            Mifila.add(17);
+            Mifila.add(11);
+            Mifila.MirarLista();
+            Console.WriteLine("Agarramos el ultimo valor que es este: " + Mifila.Agarrar());
+            Console.ReadLine();
+            Mifila.MirarLista();
+            Console.WriteLine("Agarramos el ultimo valor que es este: " + Mifila.Agarrar());
+            Console.ReadLine();
         }
     }
 }
